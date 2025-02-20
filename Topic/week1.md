@@ -33,7 +33,7 @@ p는 div의 스타일도 상속받고 본인에게 지정된 스타일도 있는
 
 **중요도 끌어올리기**
 
-![image](https://github.com/user-attachments/assets/e5f56554-b94d-4adc-86ec-4a9620da826c)
+![image](https://github.com/user-attachments/assets/7ec647c1-2507-4579-a6e7-21bb87b7a721)
 
 ```
 h2 {
