@@ -144,7 +144,8 @@ CSS를 다루다가 원하는 속성이 적용되지 않는다면 캐스케이�
 
 ## 2. 웹 접근성
 - 2020년 기준 전체 인구 **15%** = 장애인
-![image](https://github.com/user-attachments/assets/8def4158-105e-4247-ae59-34b10ccc1a14)
+![image](https://github.com/user-attachments/assets/7d219b1d-3ffb-42bb-a240-73de34f697c8)
+
 
 - 이 중 시각장애인은 인터넷 사용에 어려움을 겪음
 -> screen reader라는 화면을 소리내어 읽어주는 프로그램 사용
