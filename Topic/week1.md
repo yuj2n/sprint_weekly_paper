@@ -2,7 +2,7 @@
 - Q2. 시맨틱 태그를 사용하면 좋은 점을 설명해 주세요.
 <hr>
 
-# ❓Q1
+# 🔍Q1
 ![image](https://github.com/user-attachments/assets/7c1a4f06-fe03-4f8c-84b1-ce9de9162894)
 
 **Cascading**: 폭포, 위에서 아래로 쏟아지는의 뜻을 가진 중요한 스타일 적용 규칙.
@@ -106,7 +106,7 @@ CSS를 다루다가 원하는 속성이 적용되지 않는다면 캐스케이�
 
 <hr> 
 
-# ❓Q2
+# 🔍Q2
 
 **시맨틱 태그(Semantic tag)**: 배치 기준으로 의미를 가진 태그 
 
