@@ -53,7 +53,8 @@ h2 {
 
 **예시**
 
-![image](https://github.com/user-attachments/assets/0816e364-80d2-4f57-8095-2ca3bb82b037)
+![image](https://github.com/user-attachments/assets/bf3f062b-bd90-41d6-973d-74215564212c)
+
 
 ```
  <h2>태그 셀렉터</h2>
