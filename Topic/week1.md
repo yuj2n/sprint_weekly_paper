@@ -6,6 +6,7 @@
 ![image](https://github.com/user-attachments/assets/7c1a4f06-fe03-4f8c-84b1-ce9de9162894)
 
 **Cascading**: 폭포, 위에서 아래로 쏟아지는의 뜻을 가진 중요한 스타일 적용 규칙.
+
 CSS: Cascading Style Sheet의 약자로 위에서 아래로 떨어지는 스타일 적용을 의미함
 
 CSS를 사용하다보면 같은 요소에 대하여 여러 스타일이 중복되는 경우 존재.
@@ -30,11 +31,9 @@ p는 div의 스타일도 상속받고 본인에게 지정된 스타일도 있는
 중요도: 스타일 선언 위치에 따라 우선순위 매김
 ![image](https://github.com/user-attachments/assets/d9f7eb76-1b70-4325-8c63-7d6beb66491a)
 
-```
- 작성자 스타일 시트 > 사용자 스타일 시트 > 사용자 도구 스타일 시트
-```
-
 **중요도 끌어올리기**
+![image](https://github.com/user-attachments/assets/e5f56554-b94d-4adc-86ec-4a9620da826c)
+
 ```
 h2 {
     background-color: red **!important**;
@@ -48,10 +47,11 @@ h2 {
 ### 2. 명시도
 
 명시도: 셀렉터가 가리키는 것이 명확할수록 우선순위를 높게 주는 것
-```
- 인라인 > id > class > 태그
-```
+![image](https://github.com/user-attachments/assets/a2294283-b4f9-43c6-967b-facfd0c64f4e)
+
 **예시**
+![image](https://github.com/user-attachments/assets/0816e364-80d2-4f57-8095-2ca3bb82b037)
+
 ```
  <h2>태그 셀렉터</h2>
   <h2 class='cls'>클래스 셀렉터</h2>
