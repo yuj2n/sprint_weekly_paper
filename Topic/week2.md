@@ -1,4 +1,4 @@
-# Weekly Paper - Week 2
+# 📖Weekly Paper - Week 2
 
 # 🔍Q1.
 - Git에서 branch merge 방법들과 각 방법의 특징을 설명해 주세요.
