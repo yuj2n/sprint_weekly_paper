@@ -3,7 +3,7 @@
 <hr>
 
 # 🔍Q1
-![image](https://github.com/user-attachments/assets/7c1a4f06-fe03-4f8c-84b1-ce9de9162894)
+<img src="https://github.com/user-attachments/assets/7c1a4f06-fe03-4f8c-84b1-ce9de9162894" width="50%" height="50%" >
 
 **Cascading**: 폭포, 위에서 아래로 쏟아지는의 뜻을 가진 중요한 스타일 적용 규칙.
 
@@ -110,7 +110,7 @@ Ex) 부모 요소에만 스타일 적용한 경우 자식 요소에도 스타일
 
 **시맨틱 태그(Semantic tag)**: 배치 기준으로 의미를 가진 태그 
 
-![image](https://github.com/user-attachments/assets/18867f4c-ce90-421a-ad5b-ef60bd48adec)
+<img src="https://github.com/user-attachments/assets/18867f4c-ce90-421a-ad5b-ef60bd48adec" width="50%" height="50%" >
 
 
 - 똑같은 div 영역이지만, 문서 안에서 다른 의미를 가짐
@@ -136,7 +136,7 @@ Ex) 부모 요소에만 스타일 적용한 경우 자식 요소에도 스타일
 
 ## 1. 검색 최적화 
 
-![image](https://github.com/user-attachments/assets/555d80b4-b069-40bc-9947-a9d9cf7bc687)
+<img src="https://github.com/user-attachments/assets/555d80b4-b069-40bc-9947-a9d9cf7bc687" width="50%" height="50%" >
 
 - 웹 사이트 검색 시 원하는 내용을 알맞게 보여주는 것
 - 사용자가 원하는 내용과 일치하는 경우 화면 **맨 위**에 보여줌!
@@ -145,8 +145,8 @@ Ex) 부모 요소에만 스타일 적용한 경우 자식 요소에도 스타일
 
 ## 2. 웹 접근성
 - 2020년 기준 전체 인구 **15%** = 장애인
-![image](https://github.com/user-attachments/assets/7d219b1d-3ffb-42bb-a240-73de34f697c8)
 
+<img src="https://github.com/user-attachments/assets/7d219b1d-3ffb-42bb-a240-73de34f697c8" width="50%" height="50%" >
 
 - 이 중 시각장애인은 인터넷 사용에 어려움을 겪음
 -> screen reader라는 화면을 소리내어 읽어주는 프로그램 사용
@@ -155,9 +155,7 @@ Ex) 부모 요소에만 스타일 적용한 경우 자식 요소에도 스타일
 
 ## 3. 개발자의 생산성 향상
 
-![image](https://github.com/user-attachments/assets/f7066d43-cc1f-4f18-98c8-7971346de265)
-
-
+<img src="https://github.com/user-attachments/assets/f7066d43-cc1f-4f18-98c8-7971346de265" width="50%" height="50%" >
 
 - 개발자는 눈에 보이는 화면이 아닌 코드를 보며 사이트를 이해함.
 - **가독성**이 올라가 코드를 보기 편리함.
