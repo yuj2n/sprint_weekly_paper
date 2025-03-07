@@ -1,6 +1,6 @@
-# Weekly Paper - Week 2
+# 📖Weekly Paper - Week 2
 
-# 🔍Q1
+# 🔍Q1.
 - CSS의 Cascading에 대해 설명해 주세요.
 
 <img src="https://github.com/user-attachments/assets/7c1a4f06-fe03-4f8c-84b1-ce9de9162894" width="50%" height="50%" >
