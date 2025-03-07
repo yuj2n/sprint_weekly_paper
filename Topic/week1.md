@@ -24,16 +24,18 @@ p는 div의 스타일도 상속받고 본인에게 지정된 스타일도 있는
 
 ## 스타일 우선순위
 
-#### 결정요소
-
-### 1. 중요도
+- 결정요소
+  - 중요도
+  - 명시도
+  - 코드 순서
+  
+### <mark>1. 중요도</mark>
 
 중요도: 스타일 선언 위치에 따라 우선순위 매김
 ![image](https://github.com/user-attachments/assets/d9f7eb76-1b70-4325-8c63-7d6beb66491a)
 
 **중요도 끌어올리기**
-
-![image](https://github.com/user-attachments/assets/7ec647c1-2507-4579-a6e7-21bb87b7a721)
+<img src="https://github.com/user-attachments/assets/7ec647c1-2507-4579-a6e7-21bb87b7a721" width="20%" height="20%" >
 
 ```
 h2 {
@@ -45,16 +47,14 @@ h2 {
 }
 ```
   
-### 2. 명시도
+### <mark>2. 명시도</mark>
 
 명시도: 셀렉터가 가리키는 것이 명확할수록 우선순위를 높게 주는 것
 
 ![image](https://github.com/user-attachments/assets/a2294283-b4f9-43c6-967b-facfd0c64f4e)
 
 **예시**
-
-![image](https://github.com/user-attachments/assets/bf3f062b-bd90-41d6-973d-74215564212c)
-
+<img src="https://github.com/user-attachments/assets/bf3f062b-bd90-41d6-973d-74215564212c" width="70%" height="70%" >
 
 ```
  <h2>태그 셀렉터</h2>
@@ -76,7 +76,8 @@ h2 {
 }
 ```
 
-### 3. 코드 순서
+
+### <mark>3. 코드 순서</mark>
 
 코드 순서: 마지막 등장한 속성을 최우선 적용하는 것
 ```
@@ -133,7 +134,8 @@ Ex) 부모 요소에만 스타일 적용한 경우 자식 요소에도 스타일
 1. 검색 최적화(SEO)
 2. 웹 접근성(Web Accessibility)
 3. 개발자의 생산성 향상
-   
+
+<hr>
 
 ## 1. 검색 최적화 
 
@@ -143,7 +145,6 @@ Ex) 부모 요소에만 스타일 적용한 경우 자식 요소에도 스타일
 - 사용자가 원하는 내용과 일치하는 경우 화면 **맨 위**에 보여줌!
 - **SEO**하는법: <meta>태그 꼼꼼히 작성/시맨틱 태그 작성
   
-
 ## 2. 웹 접근성
 - 2020년 기준 전체 인구 **15%** = 장애인
 
@@ -153,7 +154,6 @@ Ex) 부모 요소에만 스타일 적용한 경우 자식 요소에도 스타일
 -> screen reader라는 화면을 소리내어 읽어주는 프로그램 사용
 - 이때, 시맨틱 태그를 사용 시 **장벽 없는 인터넷**을 만들 수 있음.
   
-
 ## 3. 개발자의 생산성 향상
 
 <img src="https://github.com/user-attachments/assets/f7066d43-cc1f-4f18-98c8-7971346de265" width="50%" height="50%" >
