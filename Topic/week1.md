@@ -1,8 +1,8 @@
-- Q1. CSS의 Cascading에 대해 설명해 주세요.
-- Q2. 시맨틱 태그를 사용하면 좋은 점을 설명해 주세요.
-<hr>
+# Weekly Paper - Week 2
 
 # 🔍Q1
+- CSS의 Cascading에 대해 설명해 주세요.
+
 <img src="https://github.com/user-attachments/assets/7c1a4f06-fe03-4f8c-84b1-ce9de9162894" width="50%" height="50%" >
 
 **Cascading**: 폭포, 위에서 아래로 쏟아지는의 뜻을 가진 중요한 스타일 적용 규칙.
@@ -107,6 +107,7 @@ Ex) 부모 요소에만 스타일 적용한 경우 자식 요소에도 스타일
 <hr> 
 
 # 🔍Q2
+- 시맨틱 태그를 사용하면 좋은 점을 설명해 주세요.
 
 **시맨틱 태그(Semantic tag)**: 배치 기준으로 의미를 가진 태그 
 

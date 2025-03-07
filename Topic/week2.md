@@ -1,8 +1,8 @@
-- Q1. Git에서 branch merge 방법들과 각 방법의 특징을 설명해 주세요.
-- Q2. Git Flow 브랜치 전략에 대해 설명해 주세요.
-<hr>
+# Weekly Paper - Week 2
 
 # 🔍Q1.
+- Git에서 branch merge 방법들과 각 방법의 특징을 설명해 주세요.
+
 <img src="https://github.com/user-attachments/assets/1f6416b7-4d3b-4857-90ba-f1a39cf9df30" width="70%" height="50%" >
 
 ```
@@ -47,6 +47,7 @@ git rebase <재베이스할 브랜치>
 - 히스토리가 깔끔하게 유지되지만, 코드 충돌 가능성이 높음.
 
 # 🔍Q2
+- Git Flow 브랜치 전략에 대해 설명해 주세요.
 
 ## git Flow 브랜치 전략?
 - 협업을 위해 branch에서 작업하는데, 이 branch를 규칙없이 생성하면 어떤 기능의 브랜치인지 혼란 야기 가능
