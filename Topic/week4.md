@@ -57,7 +57,7 @@ var myVariable;
 # 🔍Q2.
 - 🇶2. 브라우저가 어떻게 동작하는지 설명해 주세요.
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/c678c467-486d-4a4f-ab7e-32290182c6a9)
 
 ### 웹 브라우저(Web Browser)
 - 웹 서버에서 HTTP를 통해 양방향으로 통신을 하며
@@ -65,8 +65,7 @@ var myVariable;
 - GUI 기반의 소프트웨어 프로그램
 <hr>
 
-![image](https://github.com/user-attachments/assets/c678c467-486d-4a4f-ab7e-32290182c6a9)
-
+![image](https://github.com/user-attachments/assets/2a0c8109-40dd-4d9a-89f9-6b37bf7c6c21)
 
 ### 1. URL 입력 및 요청(Request) 과정
 사용자가 주소창에 URL 입력 후 엔터를 누르면, 브라우저는 해당 URL을 해석함.
