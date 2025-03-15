@@ -65,6 +65,9 @@ var myVariable;
 - GUI 기반의 소프트웨어 프로그램
 <hr>
 
+![image](https://github.com/user-attachments/assets/c678c467-486d-4a4f-ab7e-32290182c6a9)
+
+
 ### 1. URL 입력 및 요청(Request) 과정
 사용자가 주소창에 URL 입력 후 엔터를 누르면, 브라우저는 해당 URL을 해석함.
 URL에 해당하는 DNS 조회를 통해 도메인(예: google.com)을 IP 주소로 변환.
